@@ -50,7 +50,7 @@ I am a third-year Computer Science Engineering student specializing in **Artific
 
 - **What I'm Learning & Exploring:** Machine learning algorithms, deep learning architectures, feature engineering, and RESTful API integration.
 - **Engineering Standard:** Rather than settling for the first working solution, I revisit and refine my work repeatedly, testing assumptions and learning from every iteration.
-- **Current Status:** Actively looking for **Summer 2026 Internships** and entry-level **AI/ML & Software Engineering** opportunities.
+- **Current Status:** Actively looking for **Internships** and entry-level **AI/ML & Software Engineering** opportunities or the part time job.
 
 ---
 
