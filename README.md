@@ -104,7 +104,7 @@ I am a third-year Computer Science Engineering student specializing in **Artific
         <strong>Technologies Used:</strong> <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>CNNs</code> &bull; <code>OpenCV</code> &bull; <code>Data Preprocessing</code>
       </p>
       <p>
-        <a href="https://aweshhussain.vercel.app/#projects"><strong>View System Case Study ↗</strong></a>
+        <a href="https://chakravatmanthan.adeebrazi.online/#projects"><strong>View System Case Study ↗</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
