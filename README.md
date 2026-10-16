@@ -10,7 +10,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://aweshhussain.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=C96D4F&center=true&vCenter=true&width=620&height=36&lines=Undergraduate+Researcher+in+Artificial+Intelligence+%26+Data+Science;Building+End-to-End+Predictive+Pipelines+%26+Deep+Neural+Architectures;Translating+Complex+Mathematical+Models+into+Production+Software" alt="Awesh Hussain Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=C96D4F&center=true&vCenter=true&width=620&height=36&lines=B.Tech+CSE+(AI+%26+Data+Science)+Undergraduate;Passionate+About+Machine+Learning+%26+Deep+Learning;Building+End-to-End+Predictive+ML+Pipelines;Full-Stack+Web+Development+with+FastAPI+%26+React" alt="Awesh Hussain Subtitle" />
   </a>
 
   <p align="center">
@@ -46,11 +46,11 @@
 
 > *"Engineering is not just about making something work; it is about understanding why it works, evaluating its limitations, and finding ways to make it better."*
 
-I am a third-year Computer Science Engineering student specializing in **Artificial Intelligence & Data Science** at **Arka Jain University**. My engineering practice bridges the gap between raw statistical data wrangling and dependable, production-ready software systems. 
+I am a third-year Computer Science Engineering student specializing in **Artificial Intelligence & Data Science** at **Arka Jain University**. I am passionate about learning how intelligent models work from the ground up, and connecting data-driven insights to functional, full-stack software.
 
-- **Primary Focus:** Deep learning architectures, predictive regression modeling, telemetry processing, and RESTful API integrations.
-- **Engineering Standard:** I build iteratively, test edge-case boundaries, and prioritize transparent, demonstrable value over opaque black-box solutions.
-- **Current Status:** Actively open to **Summer 2026 Internships** and **AI/ML Engineering** roles.
+- **What I'm Learning & Exploring:** Machine learning algorithms, deep learning architectures, feature engineering, and RESTful API integration.
+- **Engineering Standard:** Rather than settling for the first working solution, I revisit and refine my work repeatedly, testing assumptions and learning from every iteration.
+- **Current Status:** Actively looking for **Summer 2026 Internships** and entry-level **AI/ML & Software Engineering** opportunities.
 
 ---
 
@@ -96,25 +96,25 @@ I am a third-year Computer Science Engineering student specializing in **Artific
   <tr>
     <td width="50%" valign="top">
       <h3>🌪️ Chakravat Manthan</h3>
-      <p><strong>Satellite Telemetry &amp; Deep Learning Cyclone Intensity Forecasting</strong></p>
+      <p><strong>Cyclone Intensity Forecasting with Satellite Imagery</strong></p>
       <p>
-        An end-to-end meteorological intelligence pipeline trained on multi-spectral satellite telemetry from ISRO's INSAT-3DR mission to predict cyclone trajectories and peak intensity thresholds before landfall.
+        An applied computer vision project exploring deep learning architectures (CNNs) trained on publicly available INSAT-3DR satellite imagery to estimate cyclone trajectory and peak intensity patterns.
       </p>
       <p>
-        <strong>Core Repertoire:</strong> <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>CNNs</code> &bull; <code>Computer Vision</code> &bull; <code>Geospatial Data</code>
+        <strong>Technologies Used:</strong> <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>CNNs</code> &bull; <code>OpenCV</code> &bull; <code>Data Preprocessing</code>
       </p>
       <p>
         <a href="https://aweshhussain.vercel.app/#projects"><strong>View System Case Study ↗</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Used Car Valuation Engine</h3>
-      <p><strong>Predictive Machine Learning Regression Pipeline</strong></p>
+      <h3>📈 Used Car Price Prediction</h3>
+      <p><strong>End-to-End Machine Learning Regression Pipeline</strong></p>
       <p>
-        A rigorous data-driven valuation pipeline featuring advanced feature engineering, outlier mitigation, and multi-model cross-validation to provide transparent, high-accuracy market estimates ($R^2$ optimized).
+        A complete regression modeling pipeline covering exploratory data analysis, outlier handling, categorical encoding, and comparative model evaluation to estimate vehicle market values.
       </p>
       <p>
-        <strong>Core Repertoire:</strong> <code>Python</code> &bull; <code>scikit-learn</code> &bull; <code>XGBoost</code> &bull; <code>Pandas</code> &bull; <code>Streamlit</code>
+        <strong>Technologies Used:</strong> <code>Python</code> &bull; <code>scikit-learn</code> &bull; <code>XGBoost</code> &bull; <code>Pandas</code> &bull; <code>Streamlit</code>
       </p>
       <p>
         <a href="https://aweshhussain.vercel.app/#projects"><strong>View System Case Study ↗</strong></a>
